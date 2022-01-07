@@ -23,7 +23,18 @@ Their are many categories available
 ![Screenshot_20220107-175119_RecipeApp](https://user-images.githubusercontent.com/81630584/148543952-9b5bef78-d5bb-4f53-9e1a-3f675850591f.jpg)
 ![Screenshot_20220107-175145_RecipeApp](https://user-images.githubusercontent.com/81630584/148543967-01362929-4e4b-4d8d-a11b-a650e4cbd87d.jpg)
 
+**Functionality & Concepts used :**
+
+- The App has a very simple and interactive interface. User can select dish category and choose the dish they want to cook.
+- User can view the Dish Tutorial by clicking on YOUTUBE button and it will redirect the link to the youtube video.
+- Linear Lyout
+- Recycler View
+
 
 **Application Link & Future Scope :**
 
-You can access the app from Github : 
+You can access the app from Github using [link](https://github.com/gsaksham108/Recipe-App)
+
+
+In future we will add more dishes and help people by adding a Chat System so they can share problems faced by them and we can resolve it.
+And we will be adding a feedback page to the application so that everyone can share their experiences and can suggest new dishes that we add to the menu.
